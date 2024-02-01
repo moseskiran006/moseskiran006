@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kiran Kur Pilli</h1>
+<h1 align="center">Hi 👋, I'm Kiran Kumr Pilli</h1>
 <h3 align="center">A passionate Data Science student from IIITK</h3>
 <img align = "right" alt = "Coding" width = "400" src= "https://camo.githubusercontent.com/091162bac03d91045aa04ef43fe38ca968df15d17825b5a496c5263b386d48bb/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39312f31362f38622f39313136386234383733663636353962336539666466653462383963643836342e676966">
 
