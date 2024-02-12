@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
 
-- 💬 Ask me about **Machine Learning and Deep Lea**
+- 💬 Ask me about **Machine Learning and Deep Le**
 
 - 📫 How  to reach me **moseskiran006@gmail.com**
 
