@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
-- 📫 How  to reach me **moseskiran006@gmail.com**
+- 📫 How  to reach me **moseskiran006@gmail.c**
 
 - ⚡ Fun fact **"Gladified to announce, just peeked at my GitHub geniusery🚀👩‍💻 **
 
