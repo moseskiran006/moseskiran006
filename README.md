@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Agentic AI Specialist | Data Science Enthusiast</h3>
 
 <div align="center">
-  <img alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/091162bac03d91045aa04ef43fe38ca968df15d17825b5a496c5263b386d48bb/68747470733a2f2f692e70696e696d672e636f6d/5a5839673750514f4d6b6d68544a536b6a513d3d2e676966" />
+  <img alt="Coding GIF" width="400" src="https://media.giphy.com/media/SvckktajcWrAVzWw0s/giphy.gif" />
 </div>
 
 <p align="center">
