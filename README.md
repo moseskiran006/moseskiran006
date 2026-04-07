@@ -84,14 +84,18 @@ I'm a professional **AI Engineer** with expertise in **Agentic AI systems**, **M
 
 ---
 
-## 📊 GitHub Stats
+## 📈 My Expertise Level
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moseskiran006&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Python-Advanced-brightgreen?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-brightgreen?style=for-the-badge" alt="ML" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Advanced-brightgreen?style=for-the-badge" alt="DL" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moseskiran006&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/LLMs%20%26%20Agentic%20AI-Expert-blue?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Data%20Science-Advanced-brightgreen?style=for-the-badge" alt="Data Science" />
+  <img src="https://img.shields.io/badge/MLOps-Intermediate-yellow?style=for-the-badge" alt="MLOps" />
 </p>
 
 ---
@@ -115,6 +119,18 @@ Check out my repositories for exciting projects in **Agentic AI** and **Machine 
 - Advancing prompt engineering techniques
 - Contributing to open-source AI projects
 - Sharing knowledge about AI & agentic systems
+
+---
+
+## 🎯 Development Journey
+
+```
+2024 → Data Science & ML Foundations
+  ↓
+2025 → Deep Learning & Advanced ML
+  ↓
+2026 → AI Engineering & Agentic AI Systems (Current)
+```
 
 ---
 
