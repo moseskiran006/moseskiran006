@@ -8,7 +8,7 @@
 
 Building intelligent autonomous agents that solve real-world problems at scale 🚀
 
-<img alt="Coding GIF" width="500" src="https://media.giphy.com/media/SvckktajcWrAVzWw0s/giphy.gif" />
+<img alt="Coding GIF" width="500" src="https://media.giphy.com/media/SvckktajcWrAVzWw0s/giphy.gif?raw=true" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=moseskiran006&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
@@ -34,7 +34,7 @@ Building intelligent autonomous agents that solve real-world problems at scale �
 
 ## 🚀 About Me
 
-I'm a passionate **AI Engineer** with deep expertise in building **Agentic AI systems** that revolutionize how businesses automate complex workflows. With a strong foundation in **Machine Learning**, **Deep Learning**, and **Large Language Models**, I create intelligent solutions that scale.
+I'm a passionate **AI Engineer** with deep expertise in building **Agentic AI systems** that revolutionize how businesses automate complex workflows. With a strong foundation in **Machine Learning**, I specialize in creating intelligent autonomous agents, fine-tuning LLMs, and designing scalable AI architectures.
 
 ### 💡 What I Do Best:
 
@@ -53,7 +53,7 @@ I'm a passionate **AI Engineer** with deep expertise in building **Agentic AI sy
 - **⚡ Passion** - I believe AI agents will revolutionize problem-solving and business automation! 🚀
 
 ### 💬 Ask Me About:
-`Agentic AI` • `LLMs & GPT Models` • `Machine Learning` • `Deep Learning` • `RAG Systems` • `Multi-Agent Systems` • `Prompt Engineering` • `AI Architecture` • `MLOps` • `n8n Workflows`
+`Agentic AI` • `LLMs & GPT Models` • `Machine Learning` • `Deep Learning` • `RAG Systems` • `Multi-Agent Systems` • `Prompt Engineering` • `AI Architecture` • `MLOps` • `n8n Workflows` • `Vector Databases` • `LangChain`
 
 ---
 
@@ -65,13 +65,13 @@ I'm a passionate **AI Engineer** with deep expertise in building **Agentic AI sy
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
-| **AI/ML Frameworks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) |
-| **LLM & Agents** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B6B?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=docker&logoColor=white) |
-| **Data Tools** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| **AI/ML Frameworks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **LLM & Agents** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B6B?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) |
+| **Data Tools** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) |
 | **Vector Databases** | ![Pinecone](https://img.shields.io/badge/Pinecone-405BFF?style=for-the-badge) ![ChromaDB](https://img.shields.io/badge/ChromaDB-00A8E1?style=for-the-badge) ![Weaviate](https://img.shields.io/badge/Weaviate-220052?style=for-the-badge) |
 | **Orchestration** | ![n8n](https://img.shields.io/badge/n8n-DF3901?style=for-the-badge&logo=n8n&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
 
 </div>
@@ -284,9 +284,9 @@ I'm open to collaborations and opportunities in:
 
 | 📖 Documentation | 🛠️ Tools | 🎯 Resources |
 |-----------------|---------|------------|
-| [Project Docs](https://github.com/moseskiran006) | [GitHub](https://github.com/moseskiran006) | [Blog Posts](#) |
-| [Setup Guides](#) | [Code Samples](#) | [Research](#) |
-| [API Docs](#) | [Templates](#) | [Tutorials](#) |
+| [Project Repo](https://github.com/moseskiran006) | [GitHub Profile](https://github.com/moseskiran006) | [Repositories](https://github.com/moseskiran006?tab=repositories) |
+| [WhatsApp Agent](https://github.com/moseskiran006/autonomous-AI-WhatsApp-Sales-Agent) | [Code Examples](https://github.com/moseskiran006) | [Portfolio](https://github.com/moseskiran006/portfolio) |
+| [AI Projects](https://github.com/moseskiran006?tab=repositories) | [Python Projects](https://github.com/moseskiran006/python-mini-projects) | [Learning Resources](https://github.com/moseskiran006/Perfect-Roadmap-To-Learn-Data-Science-In-2024) |
 
 </div>
 
