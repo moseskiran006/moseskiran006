@@ -24,9 +24,20 @@ Building intelligent autonomous agents that solve real-world problems at scale �
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moseskiran006&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moseskiran006&theme=radical&hide_border=true)](https://github.com/moseskiran006)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moseskiran006&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&layout=compact)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moseskiran006&theme=radical&hide_border=true)](https://github.com/moseskiran006)
+
+[![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moseskiran006&theme=radical&hide_border=true)](https://github.com/moseskiran006)
+
+### 📈 Quick Stats
+
+| Metric | Badge |
+|--------|-------|
+| **Public Repos** | ![Repos](https://img.shields.io/github/repos/moseskiran006?style=flat-square&color=blue) |
+| **Followers** | ![Followers](https://img.shields.io/github/followers/moseskiran006?style=flat-square&color=blue&label=) |
+| **Total Stars** | ![Stars](https://img.shields.io/github/stars/moseskiran006?style=flat-square&color=yellow&label=) |
+| **GitHub Streak** | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=moseskiran006&theme=radical&hide_border=true) |
 
 </div>
 
@@ -34,7 +45,7 @@ Building intelligent autonomous agents that solve real-world problems at scale �
 
 ## 🚀 About Me
 
-I'm a passionate **AI Engineer** with deep expertise in building **Agentic AI systems** that revolutionize how businesses automate complex workflows. With a strong foundation in **Machine Learning**, I specialize in creating intelligent autonomous agents, fine-tuning LLMs, and designing scalable AI architectures.
+I'm a passionate **AI Engineer** with deep expertise in building **Agentic AI systems** that revolutionize how businesses automate complex workflows. With a strong foundation in **Machine Learning**, I specialize in creating autonomous agents, large language models, and intelligent automation systems.
 
 ### 💡 What I Do Best:
 
@@ -53,7 +64,7 @@ I'm a passionate **AI Engineer** with deep expertise in building **Agentic AI sy
 - **⚡ Passion** - I believe AI agents will revolutionize problem-solving and business automation! 🚀
 
 ### 💬 Ask Me About:
-`Agentic AI` • `LLMs & GPT Models` • `Machine Learning` • `Deep Learning` • `RAG Systems` • `Multi-Agent Systems` • `Prompt Engineering` • `AI Architecture` • `MLOps` • `n8n Workflows` • `Vector Databases` • `LangChain`
+`Agentic AI` • `LLMs & GPT Models` • `Machine Learning` • `Deep Learning` • `RAG Systems` • `Multi-Agent Systems` • `Prompt Engineering` • `AI Architecture` • `MLOps` • `n8n Workflows`
 
 ---
 
@@ -65,10 +76,10 @@ I'm a passionate **AI Engineer** with deep expertise in building **Agentic AI sy
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **AI/ML Frameworks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 | **LLM & Agents** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B6B?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) |
-| **Data Tools** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) |
+| **Data Tools** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white) |
 | **Vector Databases** | ![Pinecone](https://img.shields.io/badge/Pinecone-405BFF?style=for-the-badge) ![ChromaDB](https://img.shields.io/badge/ChromaDB-00A8E1?style=for-the-badge) ![Weaviate](https://img.shields.io/badge/Weaviate-220052?style=for-the-badge) |
 | **Orchestration** | ![n8n](https://img.shields.io/badge/n8n-DF3901?style=for-the-badge&logo=n8n&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) |
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) |
@@ -285,8 +296,8 @@ I'm open to collaborations and opportunities in:
 | 📖 Documentation | 🛠️ Tools | 🎯 Resources |
 |-----------------|---------|------------|
 | [Project Repo](https://github.com/moseskiran006) | [GitHub Profile](https://github.com/moseskiran006) | [Repositories](https://github.com/moseskiran006?tab=repositories) |
-| [WhatsApp Agent](https://github.com/moseskiran006/autonomous-AI-WhatsApp-Sales-Agent) | [Code Examples](https://github.com/moseskiran006) | [Portfolio](https://github.com/moseskiran006/portfolio) |
-| [AI Projects](https://github.com/moseskiran006?tab=repositories) | [Python Projects](https://github.com/moseskiran006/python-mini-projects) | [Learning Resources](https://github.com/moseskiran006/Perfect-Roadmap-To-Learn-Data-Science-In-2024) |
+| [WhatsApp Agent](https://github.com/moseskiran006/autonomous-AI-WhatsApp-Sales-Agent) | [Code Examples](https://github.com/moseskiran006) | [Portfolio](https://github.com/moseskiran006) |
+| [AI Projects](https://github.com/moseskiran006?tab=repositories) | [Python Projects](https://github.com/moseskiran006/python-mini-projects) | [Learning Resources](https://github.com/moseskiran006) |
 
 </div>
 
